@@ -1,0 +1,8 @@
+/*.v-content__wrap {
+    background-image: url("../../assets/Background4.png");
+    background-size: cover;
+   }*/
+.v-content__wrap{
+    background-color: #EAE7DC;
+    background-size: cover;
+}
